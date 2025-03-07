@@ -3,11 +3,6 @@
   "name": "GitHub Search",
   "description": "Navigate to a GitHub repo and perform a search",
   "useCurrentTab": true,
-  "code": "goto: https://github.com/ctrl-cheeb-del/
-   wait: 2000
-   press: / 
-   wait: 2000
-   type: hello world
-   log: Search completed",
+  "code": "goto: https://github.com/ctrl-cheeb-del/\nwait: 2000\npress: /\nwait: 2000\ntype: hello world\nlog: Search completed",
   "version": 1
 }
