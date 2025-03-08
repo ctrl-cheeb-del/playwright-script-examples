@@ -5,7 +5,7 @@ import type { ScriptDefinition } from '../core/types';
 const script: ScriptDefinition = {
   id: 'google-search',
   name: 'Google Search',
-  description: 'Navigate to Google and perform a search',
+  description: 'testing sync',
   useCurrentTab: true,
   async run(ctx) {
     const { page, log } = ctx;
